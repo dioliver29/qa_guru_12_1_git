@@ -8,6 +8,6 @@ public class Main {
         System.out.println("slow branch");
     }
     public static void another() {
-        System.out.println("Hello, Another!");
+        System.out.println("Hello, Another22!");
     }
 }
